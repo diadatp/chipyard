@@ -154,3 +154,6 @@
 [submodule "generators/vexiiriscv"]
 	path = generators/vexiiriscv
 	url = https://github.com/ucb-bar/vexiiriscv-tile.git
+[submodule "generators/diplomacy_practice"]
+	path = generators/diplomacy_practice
+	url = https://github.com/diadatp/diplomacy_practice.git
